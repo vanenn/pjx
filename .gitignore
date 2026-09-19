@@ -1,0 +1,16 @@
+# OS
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Temp
+*.pyc
+__pycache__/
+_extracted_*.txt
+_gen_pdfs.py
+_fix_quotes*.py
+_extract_docx.py
+
+# IDE
+.vscode/
+.idea/
